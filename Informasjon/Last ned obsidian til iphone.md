@@ -2,12 +2,13 @@
 
 2. Last ned appen til telefon
 
-![](Informasjon/_apx/LastNedTelefon1.jpeg)
+![](https://github.com/trineboq/Delemappe/blob/main/Informasjon/_apx/LastNedTelefon1.jpeg)
 
 3. Åpne appen og velg "Set up synch"
 4. Velg **synkronisering til iCloud**.
 
-![](Informasjon/_apx/README-IMG-20260307141750019.jpeg)![](Informasjon/_apx/README-IMG-20260307141816950.jpeg)
+![](https://github.com/trineboq/Delemappe/blob/main/Informasjon/_apx/README-IMG-20260307141750019.jpeg)
+![](https://github.com/trineboq/Delemappe/blob/main/Informasjon/_apx/README-IMG-20260307141816950.jpeg)
 
 5. Opprett et hvelv (Vault) med navn *Tab-observasjonssystem* (Kan endres senere) - Sørg for at "Store in icloud" er på.
 
