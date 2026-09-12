@@ -1,10 +1,15 @@
-Her kan du lese om hvordan komme i gang med mitt digitale observasjonssystem. Systemet tar utgangspunkt i programmet "Obsidian", og ved å laste ned mappen "observasjonssystem" har du et utgangspunkt å bygge videre på, dersom du selv ønsker å gjøre observasjonsnotater digitalt.
+# Digitalt observasjonssystem
+> Her kan du lese mer om hvordan komme i gang med mitt digitale observasjonssystem. 
 
-**Merk!** Veiledningen gjelder foreløpig bare iPhone, Mac og iCloud.
+Systemet tar utgangspunkt i appen [Obsidian](https://obsidian.md/). 
 
-> Ved å laste ned mappen "Observasjonssystem" og legge den til Obsidian-mappe på iCloud, opprettes det et hvelv, som du kan bruke som utgangspunkt for et digitalt observasjonsverktøy. 
+Ved å laste ned mappen "observasjonssystem" fra dette github-arkivet har du et utgangspunkt å bygge videre på, dersom du selv ønsker å ta digitale observasjonsnotater.
 
-Oppsummert fremgangsmåte:
+> **Merk!** Veiledningen gjelder foreløpig bare iPhone, Mac og iCloud.
+
+Hvis du laster ned mappen "Observasjonssystem", og legger den til Obsidian-mappe på iCloud, opprettes det et hvelv. Hvelvet kan brukes som utgangspunkt for et digitalt observasjonsverktøy.
+
+**Oppsummert fremgangsmåte:**
 1. [Last ned obsidian til iphone](https://github.com/trineboq/Delemappe/blob/main/Informasjon/Last%20ned%20obsidian%20til%20iphone.md) - Husk: 
 	- Synch til icloud
 	- Opprett hvelv
