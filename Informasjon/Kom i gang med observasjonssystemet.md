@@ -15,7 +15,7 @@ Hvis du laster ned mappen "Observasjonssystem", og legger den til Obsidian-mappe
 	- Opprett hvelv
 2. [Last ned obsidian til mac](https://github.com/trineboq/Delemappe/blob/main/Informasjon/Last%20ned%20obsidian%20til%20mac.md) - Nyttig:
 	- vis skulte filer i finder: `⌘` + `⇪` + `.` 
-3. Last ned obsidian-hvelvet fra github (
+3. [Last ned obsidian-hvelvet fra github](https://github.com/trineboq/Delemappe/blob/main/Informasjon/Last%20ned%20mappe%20fra%20Github.md)
 	- unzip 
 	- flytt "Observasjonssystem" til obsidian-mappe i icloud drive
 
